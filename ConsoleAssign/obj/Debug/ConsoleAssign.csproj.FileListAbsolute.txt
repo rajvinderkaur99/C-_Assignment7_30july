@@ -1,0 +1,7 @@
+E:\dotnet class\ConsoleAssign\bin\Debug\ConsoleAssign.exe.config
+E:\dotnet class\ConsoleAssign\bin\Debug\ConsoleAssign.exe
+E:\dotnet class\ConsoleAssign\bin\Debug\ConsoleAssign.pdb
+E:\dotnet class\ConsoleAssign\obj\Debug\ConsoleAssign.csprojAssemblyReference.cache
+E:\dotnet class\ConsoleAssign\obj\Debug\ConsoleAssign.csproj.CoreCompileInputs.cache
+E:\dotnet class\ConsoleAssign\obj\Debug\ConsoleAssign.exe
+E:\dotnet class\ConsoleAssign\obj\Debug\ConsoleAssign.pdb

@@ -1,0 +1,6 @@
+E:\dotnet class\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\dotnet class\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\dotnet class\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+E:\dotnet class\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\dotnet class\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\dotnet class\ClassLibrary\obj\Debug\ClassLibrary.pdb
