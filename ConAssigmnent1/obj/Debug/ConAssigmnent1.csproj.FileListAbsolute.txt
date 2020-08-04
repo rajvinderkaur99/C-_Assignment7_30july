@@ -1,7 +1,0 @@
-E:\dotnet class\ConAssigmnent1\bin\Debug\ConAssigmnent1.exe.config
-E:\dotnet class\ConAssigmnent1\bin\Debug\ConAssigmnent1.exe
-E:\dotnet class\ConAssigmnent1\bin\Debug\ConAssigmnent1.pdb
-E:\dotnet class\ConAssigmnent1\obj\Debug\ConAssigmnent1.csprojAssemblyReference.cache
-E:\dotnet class\ConAssigmnent1\obj\Debug\ConAssigmnent1.csproj.CoreCompileInputs.cache
-E:\dotnet class\ConAssigmnent1\obj\Debug\ConAssigmnent1.exe
-E:\dotnet class\ConAssigmnent1\obj\Debug\ConAssigmnent1.pdb

@@ -1,7 +1,0 @@
-E:\dotnet class\ConStringAssignment\bin\Debug\ConStringAssignment.exe.config
-E:\dotnet class\ConStringAssignment\bin\Debug\ConStringAssignment.exe
-E:\dotnet class\ConStringAssignment\bin\Debug\ConStringAssignment.pdb
-E:\dotnet class\ConStringAssignment\obj\Debug\ConStringAssignment.csprojAssemblyReference.cache
-E:\dotnet class\ConStringAssignment\obj\Debug\ConStringAssignment.csproj.CoreCompileInputs.cache
-E:\dotnet class\ConStringAssignment\obj\Debug\ConStringAssignment.exe
-E:\dotnet class\ConStringAssignment\obj\Debug\ConStringAssignment.pdb
