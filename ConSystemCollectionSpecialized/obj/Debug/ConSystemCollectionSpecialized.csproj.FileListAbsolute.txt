@@ -1,0 +1,7 @@
+E:\dotnet class\AssignmentC#\ConSystemCollectionSpecialized\bin\Debug\ConSystemCollectionSpecialized.exe.config
+E:\dotnet class\AssignmentC#\ConSystemCollectionSpecialized\bin\Debug\ConSystemCollectionSpecialized.exe
+E:\dotnet class\AssignmentC#\ConSystemCollectionSpecialized\bin\Debug\ConSystemCollectionSpecialized.pdb
+E:\dotnet class\AssignmentC#\ConSystemCollectionSpecialized\obj\Debug\ConSystemCollectionSpecialized.csprojAssemblyReference.cache
+E:\dotnet class\AssignmentC#\ConSystemCollectionSpecialized\obj\Debug\ConSystemCollectionSpecialized.csproj.CoreCompileInputs.cache
+E:\dotnet class\AssignmentC#\ConSystemCollectionSpecialized\obj\Debug\ConSystemCollectionSpecialized.exe
+E:\dotnet class\AssignmentC#\ConSystemCollectionSpecialized\obj\Debug\ConSystemCollectionSpecialized.pdb
