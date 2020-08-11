@@ -1,0 +1,10 @@
+E:\dotnet class\AssignmentC#\WinCalculate\bin\Debug\WinCalculate.exe.config
+E:\dotnet class\AssignmentC#\WinCalculate\bin\Debug\WinCalculate.exe
+E:\dotnet class\AssignmentC#\WinCalculate\bin\Debug\WinCalculate.pdb
+E:\dotnet class\AssignmentC#\WinCalculate\obj\Debug\WinCalculate.csprojAssemblyReference.cache
+E:\dotnet class\AssignmentC#\WinCalculate\obj\Debug\WinCalculate.Form1.resources
+E:\dotnet class\AssignmentC#\WinCalculate\obj\Debug\WinCalculate.Properties.Resources.resources
+E:\dotnet class\AssignmentC#\WinCalculate\obj\Debug\WinCalculate.csproj.GenerateResource.cache
+E:\dotnet class\AssignmentC#\WinCalculate\obj\Debug\WinCalculate.csproj.CoreCompileInputs.cache
+E:\dotnet class\AssignmentC#\WinCalculate\obj\Debug\WinCalculate.exe
+E:\dotnet class\AssignmentC#\WinCalculate\obj\Debug\WinCalculate.pdb
